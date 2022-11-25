@@ -61,8 +61,8 @@ Combined Table is a complete process of combining the data from various sources 
 
 ## Experience
 
-###Senior Associate
-###Publicis Sapient
+### Senior Associate
+### Publicis Sapient
 Dec 2019 - Present (1 year 11 months +)
 • Build automated framework using AWS code build, Docker, Apache Airflow, DBT, and Kedro forprocessing datasets in SCD1 and SCD2 flavors.
 • Processed the data in Spark using pySpark over on-prem Hadoop cluster.
@@ -71,8 +71,8 @@ Dec 2019 - Present (1 year 11 months +)
 • Data Validation through PY-Spark jobs over tableau dashboard.
 • Exported data to Azure SQL-DW to generate reports.
 
-###Big Data Developer
-###YASH Technologies
+### Big Data Developer
+### YASH Technologies
 Jan 2019 - Dec 2019 (1 year)
 • Migrated tables into Azure Lake Storage.
 • Processed the data in Spark using pySpark over Databricks.
@@ -81,8 +81,8 @@ Jan 2019 - Dec 2019 (1 year)
 • Exported data to Azure SQL-DB to generate Analysis(SSIS) Cube.
 • A result oriented professional with 8 years of experience in software development using BigData, Hadoop,
 
-###Technology Analyst
-###Infosys
+### Technology Analyst
+### Infosys
 Oct 2013 - Dec 2018 (5 years)
 • Analyse Client Systems and gather requirements.
 • Analysing weblogs which are in JSON format.
@@ -98,6 +98,4 @@ Oct 2013 - Dec 2018 (5 years)
 <dd>1991</dd>
 <dt>Birthplace</dt>
 <dd>Delhi, India</dd>
-<dt>Color</dt>
-<dd>Green</dd>
 </dl>
