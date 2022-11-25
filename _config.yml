@@ -1,6 +1,27 @@
-title: Minimal theme
+title: <p align="center"> Sajan Kedia </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/akash-sharma-814243136/">LinkedIn</a> |
+  <a href="https://github.com/akashsharma71191">GitHub</a>
+  
+  <br>   
+  • A result oriented professional with 9 years of experience in software development using BigData, Hadoop,Apache Spark technologies
+  • Experience in Analysis, Coding, Integration, and Implementation of larger-scale Business Applications.
+  • Eager to learn new technologies, leveraging technologies to increase productivity and solve real-life challenges.
+  • Skilled in Hadoop + eco systems, AWS, Azure, SQL, SPARK-SQL, DataBricks.
+  • 8 years of experience with Big Data architectures like Hadoop, HDFS, MapReduce, Sqoop, Oozie and Goodknowledge of Hadoop ecosystems, AWS components(Data Pipeline, EMR, Redshift, Lambda, s3, SNS, SQS,Codebuild,), Databricks Platform(Notebooks, cells, DBFS, Jobs), Azure Lake storage, Azure Analytics, Azure DataFactory, Azure DevOps.
+  • Have integrated flows using OOZIE, AIRFLOW.
+  • Proficiency in Agile Methodology.
+  • Managing Hadoop distribution Hue.
+  • Experience in Shell scripts for system management.
+  • Worked with version control systems like Subversion and GIT for providing a common platform for all developers.
+  • Excellent analytical and verbal communication skills and good team player
+  • Energetic, smart working, believes in teamwork, open to learning, positive attitude, Strong InterpersonalRelationships
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
