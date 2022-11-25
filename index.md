@@ -1,6 +1,8 @@
-# Projects
+# Portfolio
 
-## CFIIBMR
+## Projects
+
+### CFIIBMR
 Akash has worked on the process of migrating the data from Microsoft PDW via on premise Hadoop Utility to tables/procedures- over Azure SQL-DW. Akash also worked on Data validation and procedure optimization developed using Pyspark.
 • Migrated tables/procedures into Azure SQL-DW.
 • Processed the data in Spark using pySpark over on prem Hadoop cluster.
@@ -10,8 +12,7 @@ Akash has worked on the process of migrating the data from Microsoft PDW via on 
 • Exported data to Azure SQL-DW to generate reports.
 Skills/Domain: Hadoop, Hive, Python, Spark, SQL, Azure, Azure Sql dw, Microsoft PDW, AWS
 
-
-## P101
+### P101
 Akash worked on the process of migrating the data from multiple SQL-Server via Azure Data Factory to Azure Lake and process using Spark to result in Analysis cube under Azure SQL-DB.
 • Migrated tables into Azure Lake Storage.
 • Processed the data in Spark using pySpark over Databricks.
@@ -20,8 +21,7 @@ Akash worked on the process of migrating the data from multiple SQL-Server via A
 • Exported data to Azure SQL-DB to generate Analysis(SSIS) Cube.
 Skills/Domain: Big Data/Cloud
 
-
-## ELIPS
+### ELIPS
 Equipment Lifecycle and Integration of Parts and Service is a part of system wherein all the data from manufacturing domain which is in XML format is processed in Hadoop framework. It includes analysis sales and service information of various machine parts which helps in understanding the growth as well as progress of organization and service respectively.
 • Analyse Client Systems and gather requirements.
 • XML parsing using MR , XSD and XSLT.
@@ -31,7 +31,7 @@ Equipment Lifecycle and Integration of Parts and Service is a part of system whe
 
 Skills/Domain: Big data
 
-## SA5
+### SA5
 Service administrator is an analytics solution for analysing json logs generated while browsing the service manuals in order to find out the most problematic areas. The service manuals are actually websites which contains complete solution of the problems that customers normally might face for which they need not call customer care but can find the solution themselves by browsing the manual.
 • Analyse Client Systems and gather requirements.
 • Analysing web logs which are in json format.
@@ -42,7 +42,7 @@ Service administrator is an analytics solution for analysing json logs generated
 
 Skills/Domain: Big data
 
-## Warranty
+### Warranty
 Warranty is a process of migrating the data from DB2  via Informatica to Redshift and considering performance issues while migrating over cloud.
 • Migrated tables into S3
 • Processed the data in Hive-EMR using complex queries.
@@ -51,7 +51,7 @@ Warranty is a process of migrating the data from DB2  via Informatica to Redshif
 • Exported data to Redshift using DataPipeline
 Skills/Domain: Big data/Cloud
 
-## Combined Table
+### Combined Table
 Combined Table is a complete process of combining the data from various sources so as to reduce the existing load on Netezza and considering performance issues while migrating.
 • Migrated Existing Netezza tables into hive
 • Processed the data in Hive using complex queries.
